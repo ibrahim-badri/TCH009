@@ -3,3 +3,5 @@ Ce cours a pour objectif d'enseigner les notions de base de l'informatique autan
 
 ## Table des matières
 
+## Licence
+
