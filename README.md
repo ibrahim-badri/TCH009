@@ -5,4 +5,4 @@ Ce cours a pour objectif d'enseigner les notions de base de l'informatique autan
 1. [License](#License)
 
 ## Licence
-
+Ce projet est sous licence conformément à la [licence MIT](LICENSE).
