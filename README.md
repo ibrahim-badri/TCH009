@@ -4,7 +4,8 @@ Ce cours a pour objectif d'enseigner les notions de base de l'informatique autan
 ## Table des matières
 
 1. [Getting Started](#Getting-Started)
-2. [License](#License)
+2. [Tech Stack](#Tech-Stack)
+3. [License](#License)
 
 ## Getting Started
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
