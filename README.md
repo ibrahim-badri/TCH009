@@ -7,9 +7,6 @@ Ce cours a pour objectif d'enseigner les notions de base de l'informatique autan
 2. [Tech Stack](#Tech-Stack)
 3. [License](#License)
 
-## Getting Started
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
-
 ## Tech Stack
 The main technologies used within the scope of this course are primarily C.
 
