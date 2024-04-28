@@ -3,9 +3,8 @@ Ce cours a pour objectif d'enseigner les notions de base de l'informatique autan
 
 ## Table des matières
 
-1. [Getting Started](#Getting-Started)
-2. [Tech Stack](#Tech-Stack)
-3. [License](#License)
+1. [Tech Stack](#Tech-Stack)
+2. [License](#License)
 
 ## Tech Stack
 The main technologies used within the scope of this course are primarily C.
